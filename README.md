@@ -20,10 +20,4 @@ I bridge the gap between complex software algorithms and low-power hardware exec
 ### 📟 Digital Design & Verilog
 * **Languages:** Verilog, SystemVerilog
 * **Tools:** Xilinx Vivado, ModelSim, QuartusPrime
-* **Hardware Platforms:** FPGAs (Basys 3, Zybo), ASIC Design Concepts, RTL Simulation
-
----
-
-## 📫 Connect with Me
-* 💼 **LinkedIn:** [://linkedin.com](https://://linkedin.com/in/muhammadsudais/)
-* 📧 **Email:** mhmmad.sudais@gmail.com
+* **Hardware Platforms:** FPGAs (Artix 7, Zybo), ASIC Design Concepts, RTL Simulation
