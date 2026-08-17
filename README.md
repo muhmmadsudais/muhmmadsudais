@@ -24,13 +24,6 @@ I bridge the gap between complex software algorithms and low-power hardware exec
 
 ---
 
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://vercel.app)
-![Top Langs](https://vercel.app)
-
----
-
 ## 📫 Connect with Me
 * 💼 **LinkedIn:** [://linkedin.com](https://://linkedin.com/in/muhammadsudais/)
 * 📧 **Email:** mhmmad.sudais@gmail.com
