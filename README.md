@@ -1,23 +1,41 @@
-# 👋 Hi, I'm Sudais!
+<details open>
+  <summary><code>&gt; neofetch</code></summary>
 
-### 🚀 Hardware-Aware AI & Digital Design Engineer
-I bridge the gap between complex software algorithms and low-power hardware execution. My passion lies in deploying intelligent systems right at the edge.
+<br>
 
----
+<table border="0">
+  <tr>
+    <td width="300px" align="center" valign="top">
+      <img src="YOUR_IMAGE_URL_HERE" alt="Profile Picture" width="100%">
+    </td>
+    <td valign="top">
+      <pre>
+<a href="https://github.com/muhmmadsudais"><b>muhmmadsudais@github</b></a>
+----------------------------------------
+<b>OS:</b> Linux arm64
+<b>Shell:</b> zsh 5.9
+<b>Focus:</b> Embedded Systems & Edge Intelligence
 
-## 🛠️ My Tech Stack & Skills
+<b>🧠 Edge AI & TinyML</b>
+- <b>Frameworks:</b> TensorFlow Lite for Microcontrollers, Edge Impulse, PyTorch
+- <b>Skills:</b> Model Quantization, Pruning, On-Device Inference, Sensor Data Processing
+- <b>Hardware:</b> Arduino Nano 33 BLE Sense, STM32, ESP32
 
-### 🧠 Edge AI & TinyML
-* **Frameworks:** TensorFlow Lite for Microcontrollers, Edge Impulse, PyTorch
-* **Skills:** Model Quantization, Pruning, On-Device Inference, Sensor Data Processing
-* **Hardware:** Arduino Nano 33 BLE Sense, STM32, ESP32
+<b>👁️ Computer Vision</b>
+- <b>Libraries:</b> OpenCV, MediaPipe, Scikit-Image
+- <b>Architectures:</b> YOLO, MobileNet, CNNs, Object Detection, Image Segmentation
+- <b>Applications:</b> Real-time tracking, Embedded vision pipelines
 
-### 👁️ Computer Vision
-* **Libraries:** OpenCV, MediaPipe, Scikit-Image
-* **Architectures:** YOLO, MobileNet, CNNs, Object Detection, Image Segmentation
-* **Applications:** Real-time tracking, Embedded vision pipelines
+<b>📟 Digital Design & Verilog</b>
+- <b>Languages:</b> Verilog, SystemVerilog
+- <b>Tools:</b> Xilinx Vivado, ModelSim, QuartusPrime
+- <b>Hardware Platforms:</b> FPGAs (Artix 7, Zybo), ASIC Design Concepts, RTL Simulation
 
-### 📟 Digital Design & Verilog
-* **Languages:** Verilog, SystemVerilog
-* **Tools:** Xilinx Vivado, ModelSim, QuartusPrime
-* **Hardware Platforms:** FPGAs (Artix 7, Zybo), ASIC Design Concepts, RTL Simulation
+- <b>Programming Languages & Technologies</b>
+- Rust, TypeScript/JavaScript, Python, C/C++, SystemVerilog, Assembly
+      </pre>
+    </td>
+  </tr>
+</table>
+
+</details>
