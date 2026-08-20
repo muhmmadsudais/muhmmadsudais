@@ -5,7 +5,6 @@
 <b>OS:</b> Linux arm64
 <b>Shell:</b> zsh 5.9
 <b>Focus:</b> Embedded Systems & Edge Intelligence
-<br>
 <b>🧠 Edge AI & TinyML</b>
   • <b>Frameworks:</b> TensorFlow Lite for Microcontrollers, Edge Impulse, PyTorch
   • <b>Skills:</b> Model Quantization, Pruning, On-Device Inference, Sensor Data Processing
